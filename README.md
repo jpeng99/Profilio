@@ -4,7 +4,7 @@
 
 ### CERTIFICATIONS
 
-![MY CERTIFICATION](/ASSETS/IMG/az-architect.jpg)
+![MY CERTIFICATION](/assets/img/az-architect.JPG)
 
 
 ### PROJECTS
